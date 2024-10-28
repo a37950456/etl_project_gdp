@@ -31,6 +31,6 @@ You have to complete the following tasks for this project:
 
 Clone the repository and run the script:
 ```bash
-git clone [repository-url]
+git clone [git@github.com:a37950456/etl_project_gdp.git]
 cd [repository-folder]
 python etl_project_gdp.py
