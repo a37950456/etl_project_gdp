@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "etl-project-gdp"
+version = "0.1.0"
+description = ""
+authors = ["a37950456 <a37950456@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.3"
+bs4 = "^0.0.2"
+numpy = "^2.1.2"
+bottleneck = "^1.4.2"
+charset-normalizer = "^3.4.0"
+requests = "^2.32.3"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

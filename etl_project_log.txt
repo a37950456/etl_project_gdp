@@ -1,0 +1,21 @@
+2024-Oct-29-18:32:01 : Preliminaries complete. Initiating ETL process
+2024-Oct-29-18:32:02 : Data extraction complete. Initiating Transformation process
+2024-Oct-29-18:32:02 : Data transformation complete. Initiating loading process
+2024-Oct-29-18:32:02 : Data saved to CSV file
+2024-Oct-29-18:32:02 : SQL Connection initiated.
+2024-Oct-29-18:32:02 : Data loaded to Database as table. Running the query
+2024-Oct-29-18:32:02 : Process Complete.
+2024-Oct-29-18:34:41 : Preliminaries complete. Initiating ETL process
+2024-Oct-29-18:34:42 : Data extraction complete. Initiating Transformation process
+2024-Oct-29-18:34:42 : Data transformation complete. Initiating loading process
+2024-Oct-29-18:34:42 : Data saved to CSV file
+2024-Oct-29-18:34:42 : SQL Connection initiated.
+2024-Oct-29-18:34:42 : Data loaded to Database as table. Running the query
+2024-Oct-29-18:34:42 : Process Complete.
+2024-Oct-29-18:35:13 : Preliminaries complete. Initiating ETL process
+2024-Oct-29-18:35:13 : Data extraction complete. Initiating Transformation process
+2024-Oct-29-18:35:13 : Data transformation complete. Initiating loading process
+2024-Oct-29-18:35:13 : Data saved to CSV file
+2024-Oct-29-18:35:13 : SQL Connection initiated.
+2024-Oct-29-18:35:13 : Data loaded to Database as table. Running the query
+2024-Oct-29-18:35:13 : Process Complete.
